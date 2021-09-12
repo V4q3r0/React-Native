@@ -1,6 +1,8 @@
 import React from 'react';
 import { StyleSheet, Text, View, TextInput, Button } from 'react-native';
 
+//Esté comentario es una prueba.
+
 export default function App() {
   const [vlrPres, setVlrPres] = React.useState(null);
   const [tipPres, setTipPres] = React.useState(null);
